@@ -78,9 +78,6 @@ Stay updated with the latest news in these categories:
 ### Health News
 ![Health News](health.png)
 
-### Category Page
-![Category Page Screenshot](images/category-page.png "VNews Category Page")
-
 ---
 
 ## Future Enhancements
